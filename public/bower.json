@@ -1,0 +1,7 @@
+{
+  "name": "API Show de Bola",
+  "dependencies": {
+    "materialize": "^0.98.1",
+    "jquery": "^3.2.0"
+  }
+}
